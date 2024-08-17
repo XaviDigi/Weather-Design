@@ -1,5 +1,6 @@
 import requests
 
+# I dont mind if you copy mine. 
 API_KEY = "63e1fa7aab0a1b752382fa0c6e404d08"
 
 def get_data(place, forecast_days=None):
