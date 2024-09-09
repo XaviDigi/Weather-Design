@@ -40,3 +40,17 @@ A **Streamlit**-powered Python application that fetches real-time weather data a
    ```bash
    streamlit run main.py
 
+🔧 Configuration
+Add your weather API key in src/weather_design/constants.py:
+
+    API_KEY = "your_api_key_here"
+
+You can get an API key from OpenWeather.
+
+🛠️ Technologies Used:
+
+Python 🐍
+Streamlit 🎈
+OpenWeather API 🌤️
+
+
