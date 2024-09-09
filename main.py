@@ -1,6 +1,7 @@
 import streamlit as st
 import plotly.express as px
-from backend import get_data
+from src.weather_app.__main__ import get_data
+
 
 # Add title, text input, slider, selectbox, and subheader
 st.title("Weather Forecast for the Next Days")
