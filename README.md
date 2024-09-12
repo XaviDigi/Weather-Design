@@ -53,4 +53,5 @@ Python 🐍
 Streamlit 🎈
 OpenWeather API 🌤️
 
+Feel free to make some changes :) 
 
